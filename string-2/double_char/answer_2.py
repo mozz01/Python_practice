@@ -3,10 +3,7 @@ Takes (str str) input,
 task: return a new string where there's an additional duplicate character in place of each original character
 """
 def double_char(str):
-  result = ""
-  for char in str:
-    result += char * 2 
-  return result
+  return "".join(char * 2 for char in str)
 
 if __name__ == "__main__":
   # Testing with different inputs and expected results
