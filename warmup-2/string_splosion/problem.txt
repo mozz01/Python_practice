@@ -1,4 +1,4 @@
-## Warmup-1: string_splosion
+## Warmup-2: string_splosion
 Given a non-empty string like "Code" return a string like "CCoCodCode".
 
 string_splosion('Code') → 'CCoCodCode'

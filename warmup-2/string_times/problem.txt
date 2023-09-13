@@ -1,4 +1,4 @@
-## Warmup-1: string_times
+## Warmup-2: string_times
 Given a string and a non-negative int n, return a larger string that is n copies of the original string.
 
 string_times('Hi', 2) → 'HiHi'
