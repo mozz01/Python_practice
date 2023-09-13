@@ -1,9 +1,9 @@
 """
 Takes (str a, str b) input, 
-task:
+task: Return a new string by concatenating strings a and b in this order: a, b, b, a
 """
 def make_abba(a, b):
-  return 
+  return a + b + b + a
 
 if __name__ == "__main__":
   # Testing with different inputs and expected results
